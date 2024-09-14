@@ -20,7 +20,7 @@ This is a solution to the [Dictionary web app challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: (https://github.com/abdallahedreeso/Dictionary-web-app)
-- Live Site URL: (https://dictionary-web-app-liard-alpha.vercel.app/)
+- Live Site URL: (https://dictionary-web-app-ruby-three.vercel.app/)
 
 ## My process
 
